@@ -1,7 +1,11 @@
 # House-Prices-Advanced-Regression-Techniques
 
-<img src='images/Home.png' width='100'>
-<img src='images/Homes.png' width='600'>
+<p align="center">
+  <img src='images/Home.png' width='100'>
+</p>
+<p align="center">
+  <img src='images/Homes.png' width='600'>
+</p>
 
 **Goal:** Predict sales prices and practice feature engineering, RFs, and gradient boosting
 
